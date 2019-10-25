@@ -6,7 +6,7 @@ Markdown adds style to your Github Page by using simple rules within your conten
 
 For instance, if I were going to add a reference link for Markdown syntax to my page, it would look like this:
 ```
-**[Click here for Markdown reference page]**(https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-code)
+**[Click here for Markdown reference page](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-code)**
 ```
 
 
