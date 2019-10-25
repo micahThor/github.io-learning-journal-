@@ -1,4 +1,3 @@
-## Welcome to Micah Thorstenson's Git Page!
 
 ### About Me
 Hello everyone, my name is Micah.  I grew up in central Florida, and like many of you veterans I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
