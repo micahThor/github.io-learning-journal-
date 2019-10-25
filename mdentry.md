@@ -9,7 +9,8 @@ For instance, if I were going to add a reference link for Markdown syntax to my 
 [Click here for Markdown reference page](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-code)
 ```
 
-As a result, we get this link:
+This example makes use of the ```()``` parenthesis and ```[]``` brackes to enclose a link.  The parenthesis open and close within the text you want your page to display, and the brackets open and close around that URL.  As a result, we get this link:
+
 [Click here for Markdown reference page](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-code)
 
 
