@@ -6,7 +6,7 @@ Hello everyone, my name is Micah.  I grew up in central Florida, and like many v
 I am a former avionics technician with ten years experience in military and commercial applications.  In my former occupation I have served in the Air Force, completed contracts for the Army, and worked for Bombardier Aerospace.  I hope to utilize the technical proficiences I utilized as an aircraft technician into my next endeavor!
 
 Some of my hobbies include:
-* Hiking leisure trails
+* Hiking leisure trails with my dog
 * Card games
 * Soccer (go Sounders!)
 
@@ -19,7 +19,8 @@ Almost three years ago I set out for the great Pacific Northwest in search for m
 In order for one to be successful in a technical capacity, there must be an inate desire to learn.  The growth mindset is a deliberate reframing of your thought processes to better adapt to new and often difficult systems.  
 ##### 3 Personal Growth Mindset Reminders
 1. Preparation for obstacles
-     - Learning can be a frustrating experience if you aren't prepared.  Maintaing a clear mind, showing up on time, and having tools on-hand can increase my growth mindset
-2.
+   - Learning can be a frustrating experience if you aren't prepared.  Maintaing a clear mind, showing up on time, and having tools on-hand can increase my growth mindset
+2. Collaboration over brute force
+   - Teaming up on challenging problems can be both a learning and teaching moment.  By engaging with colleagues instead of tackling issues alone, I can glean the important content while keeping my mind open to other's proficiencies.
 3.
 
