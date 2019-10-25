@@ -1,4 +1,5 @@
-## Welcome to Micah Thorstenson's Github
+## Welcome to 
+## Micah Thorstenson's Github
 
 You can use the [editor on GitHub](https://github.com/micahThor/micahThor.github.io-learning-journal-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
