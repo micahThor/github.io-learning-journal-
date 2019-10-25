@@ -1,5 +1,5 @@
 ### Welcome to Micah's Page
-My profile: [Click to view my stuff!](https://github.com/micahThor)
+My profile: *[Click to view my stuff!]*(https://github.com/micahThor)
 
 ### About Me
 Hello everyone, my name is Micah.  I grew up in central Florida, and like many veterans I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
@@ -13,7 +13,7 @@ Some of my hobbies include:
 
 
 ### On the Horizon
-Almost three years ago I set out for the great Pacific Northwest in search for my next career.  Currently I am in the process of reinventing my skillset as a software developer in Amazon's SDE apprenticeship program.  In preparation for this challenge I have graduated from North Seattle College with an Associates in Programming and Networking.
+Almost three years ago I set out for the great Pacific Northwest in search for my next career.  Currently I am in the process of reinventing my skillset as a software developer in **Amazon's SDE Apprenticeship Program**.  In preparation for this challenge I have graduated from North Seattle College with an Associates in Programming and Networking.
 
 
 ### Growth Mindset
