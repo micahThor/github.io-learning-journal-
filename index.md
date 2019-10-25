@@ -1,4 +1,5 @@
 ### Welcome to Micah's Page
+My profile: [Click to view my stuff!](https://github.com/micahThor)
 
 #### About Me
 Hello everyone, my name is Micah.  I grew up in central Florida, and like many veterans I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
