@@ -1,4 +1,3 @@
-## About me
 I am a former avionics technician with ten years experience in military and commercial applications.  Currently I am in the process of reinventing my skillset as a software developer in Amazon's SDE apprenticeship program.  
 
 
