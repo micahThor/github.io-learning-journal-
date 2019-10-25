@@ -19,7 +19,7 @@ Almost three years ago I set out for the great Pacific Northwest in search for m
 In order for one to be successful in a technical capacity, there must be an inate desire to learn.  The growth mindset is a deliberate reframing of your thought processes to better adapt to new and often difficult systems.  
 ##### 3 Personal Growth Mindset Reminders
 1. Preparation for obstacles
-   - Learning can be a frustrating experience if you aren't prepared.  Maintaing a clear mind, showing up on time, and having tools on-hand can increase my growth mindset
+   * Learning can be a frustrating experience if you aren't prepared.  Maintaing a clear mind, showing up on time, and having tools on-hand can increase my growth mindset.
 2. Collaboration over brute force
    - Teaming up on challenging problems can be both a learning and teaching moment.  By engaging with colleagues instead of tackling issues alone, I can glean the important content while keeping my mind open to other's proficiencies.
 3.
