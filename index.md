@@ -1,7 +1,8 @@
+<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjs_Jill7jlAhVFvZ4KHdG3AckQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkennywilliamson%2F6904348733&psig=AOvVaw2zyfzbsjjeVtt8n5u2vbGh&ust=1572119339333684">
+
 ### Welcome to Micah's Page
 My profile: *[Click to view my stuff!](https://github.com/micahThor)*
- 
-<img>https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjs_Jill7jlAhVFvZ4KHdG3AckQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkennywilliamson%2F6904348733&psig=AOvVaw2zyfzbsjjeVtt8n5u2vbGh&ust=1572119339333684</img>
+
 
 ### About Me
 Hello everyone, my name is Micah.  I grew up in central Florida, and like many veterans I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
