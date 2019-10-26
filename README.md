@@ -5,6 +5,7 @@
 [My Github profile](https://github.com/micahThor)
 #### Table of Contents
 1. [Markdown Entry](https://github.com/micahThor/learning-journal/wiki/Markdown-Entry-01)
+2. [Coder's Computer](https://github.com/micahThor/learning-journal/wiki/The-Coder's-Computer-02)
 
 
 ### About Me
