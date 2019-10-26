@@ -2,7 +2,7 @@
 
 [My Github profile](https://github.com/micahThor)
 
-![alt text](indeximg.jpg)
+![alt text](indeximg.jpg "Me at Zion National Park")
 
 ### About Me
 Hello everyone, my name is Micah.  I grew up in central Florida, but I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
