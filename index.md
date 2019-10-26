@@ -23,7 +23,7 @@ In order for one to be successful in a technical capacity, there must be an inat
 - Preparation for obstacles
    - Learning can be a frustrating experience if you aren't prepared.  Maintaing a clear mind, showing up on time, and having tools on-hand can increase my growth mindset.
 - Collaboration over brute force
-   - Teaming up on challenging problems can be both a learning and teaching moment.  By engaging with colleagues instead of tackling issues that I cannot solve alone, I can glean the important content while keeping my mind open to other's proficiencies.
-- Failure isn't an option, but it's sometimes part of the process
-   - Learning a new career can be especially difficult in the beginning.  While I must maintain the highest standards of learning, I must account for new technologies to be challenging.  When I encounter a failure on my part, that is my opportunity to react and make positive of the situation. 
+   - Teaming up on challenging problems can be both a learning and teaching moment.  By engaging with colleagues instead of tackling problems alone, I can glean the important content while keeping my mind open to other's proficiencies.
+- Effort rewards the persistent
+   - Learning a new career can be especially difficult in the beginning.  It is good to have short and long term goals when tackling new technlogies.
 
