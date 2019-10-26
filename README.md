@@ -2,6 +2,9 @@
 
 [My Github profile](https://github.com/micahThor)
 
+#### Table of Contents
+1. [Markdown Entry](https://github.com/micahThor/learning-journal.wiki.git)
+
 ![alt text](indeximg.jpg "Me at Zion National Park")
 
 ### About Me
