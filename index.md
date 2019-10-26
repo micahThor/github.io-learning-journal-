@@ -1,8 +1,12 @@
 ### Welcome to Micah's Page
 
-[My Github profile](https://github.com/micahThor)
-
 ![alt text](indeximg.jpg "Me at Zion National Park")
+
+[My Github profile](https://github.com/micahThor)
+#### Table of Contents
+1. [Markdown Entry](https://github.com/micahThor/learning-journal/wiki/Markdown-Entry-01)
+2. [Coder's Computer](https://github.com/micahThor/learning-journal/wiki/The-Coder's-Computer-02)
+
 
 ### About Me
 Hello everyone, my name is Micah.  I grew up in central Florida, but I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
