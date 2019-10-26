@@ -1,5 +1,5 @@
 ### Welcome to Micah's Page
-![alt text](https://imgur.com/JGmz2Iz "Me at Zion")
+
 [My Github profile](https://github.com/micahThor)
 
 
