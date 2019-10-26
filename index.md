@@ -26,6 +26,6 @@ In order for one to be successful in a technical capacity, there must be an inat
    - Learning can be a frustrating experience if you aren't prepared.  Maintaing a clear mind, showing up on time, and having tools on-hand can increase my growth mindset.
 - Collaboration over brute force
    - Teaming up on challenging problems can be both a learning and teaching moment.  By engaging with colleagues instead of tackling problems alone, I can glean the important content while keeping my mind open to other's proficiencies.
-- Effort rewards the persistent
-   - Learning a new career can be especially difficult in the beginning.  It is good to have short and long term goals when tackling new technlogies.
+- Effort plus persistent equals rewards
+   - Learning a new career can be especially difficult in the beginning.  It is good to have short and long term goals when tackling new technlogies.  
 
