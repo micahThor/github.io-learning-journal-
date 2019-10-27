@@ -9,7 +9,7 @@
 
 
 ### About Me
-Hello everyone, my name is Micah.  I grew up in central Florida, but I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
+Heeeello everyone, my name is Micah.  I grew up in central Florida, but I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
 
 I am a former avionics technician with ten years experience in military and commercial applications.  In my former occupation I have served in the Air Force, completed contracts for the Army, and worked for Bombardier Aerospace.  I hope to utilize the technical proficiences I cultivated as an aircraft technician into my next endeavor!
 
