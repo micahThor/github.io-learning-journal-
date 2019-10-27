@@ -6,8 +6,8 @@
 #### Table of Contents
 1. [Markdown Entry](https://github.com/micahThor/learning-journal/wiki/Markdown-Entry-01)
 2. [Coder's Computer](https://github.com/micahThor/learning-journal/wiki/The-Coder's-Computer-02)
-3. [Revisions and the Cloud](https://github.com/micahThor/learning-journal/wiki/Revisions-and-the-Cloud-03)
-
+3. [Revisions and the Cloud - Editing Content](https://github.com/micahThor/learning-journal/wiki/Revisions-and-the-Cloud-03)
+4. [Revisions and the Cloud - Git Intro](https://github.com/micahThor/learning-journal/wiki/Revisions-and-the-Cloud---Git-Intro-03)
 
 ### About Me
 Hello everyone, my name is Micah.  I grew up in central Florida, but I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
@@ -33,3 +33,4 @@ In order for one to be successful in a technical capacity, there must be an inat
    - Teaming up on challenging problems can be both a learning and teaching moment.  By engaging with colleagues instead of tackling problems alone, I can glean the important content while keeping my mind open to other's proficiencies.
 - Effort plus persistent equals rewards
    - Learning a new career can be especially difficult in the beginning.  It is good to have short and long term goals when tackling new technlogies.  
+
