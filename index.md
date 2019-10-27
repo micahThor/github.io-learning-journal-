@@ -1,4 +1,4 @@
-### Welcome to Micah's Page
+### Welcome to Micah's Learning Journal
 
 ![alt text](indeximg.jpg "Me at Zion National Park")
 
