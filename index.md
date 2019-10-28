@@ -1,5 +1,3 @@
-### Welcome to Micah's Learning Journal
-
 ![alt text](indeximg.jpg "Me at Zion National Park")
 
 [My Github profile](https://github.com/micahThor)
