@@ -16,3 +16,5 @@ $ git commit
 ```
 
 These command line functions accept multiple arguments to further their potential.  One could specify file names, directories, or document the changes made to a particular file.
+
+[Back to Home Page](index.md)

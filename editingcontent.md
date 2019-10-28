@@ -8,3 +8,5 @@ Some basic terminology/commands that I learned and utilized in this exercise:
   * pull
 
 This exercise entailed some trial and error to get my local content synced with my online content.  The benefits of having a safe place to work became apparent when I accidentally deleted one of my files.  Overall this exercise was a good learning experience when it comes to updating and modifying files.
+
+[Back to Home Page](index.md)

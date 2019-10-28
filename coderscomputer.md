@@ -23,3 +23,5 @@ The author of this piece suggests that the importance of the "right" text editor
 3. ls - Command that tells you the content of your current directory
 4. cd - Command that allows you to change directory
 5. file - Obtains information about what type of file a file or directory is
+
+[Back to Home Page](index.md)
