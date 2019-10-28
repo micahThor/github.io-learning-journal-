@@ -1,3 +1,4 @@
+# A Git Introduction
 Version control is a fundamental concept for teams working and collaborating on projects.  The ability to download/modify/upload content from distributed repositories to your local machine enables programmers to seamlessly work together.  Git is the core technology that makes this possible.  By using Git, teams can be sure that the most updated version of their product is available for actions such as pulling, pushing, cloning, and committing.
 
 According to the author of Git Tutorial: A Comprehensive Guide, Jenny Choi, Git is:
