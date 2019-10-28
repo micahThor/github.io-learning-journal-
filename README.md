@@ -4,7 +4,7 @@
 
 [My Github profile](https://github.com/micahThor)
 #### Table of Contents
-1. [Markdown Entry](https://github.com/micahThor/learning-journal/wiki/Markdown-Entry-01)
+1. [Markdown Entry](markdown.md)
 2. [Coder's Computer](https://github.com/micahThor/learning-journal/wiki/The-Coder's-Computer-02)
 3. [Revisions and the Cloud - Editing Content](https://github.com/micahThor/learning-journal/wiki/Revisions-and-the-Cloud---Editing-Content-03)
 4. [Revisions and the Cloud - Git Intro](https://github.com/micahThor/learning-journal/wiki/Revisions-and-the-Cloud---Git-Intro-03)
