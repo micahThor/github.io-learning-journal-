@@ -12,3 +12,5 @@ One major theme of Markdown is that an operator must exist before and after the 
 This example makes use of the ```()``` parenthesis and ```[]``` brackets to enclose a link.  The parenthesis open and close within the text you want your page to display, and the brackets open and close around that URL.  As a result, we get this link:
 
 [Click here for Markdown reference page](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-code)
+
+[Back to Home Page](index.md)
