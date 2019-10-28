@@ -6,8 +6,8 @@
 #### Table of Contents
 1. [Markdown Entry](markdown.md)
 2. [Coder's Computer](coderscomputer.md)
-3. [Revisions and the Cloud - Editing Content](https://github.com/micahThor/learning-journal/wiki/Revisions-and-the-Cloud---Editing-Content-03)
-4. [Revisions and the Cloud - Git Intro](https://github.com/micahThor/learning-journal/wiki/Revisions-and-the-Cloud---Git-Intro-03)
+3. [Revisions and the Cloud - Editing Content](editingcontent.md)
+4. [Revisions and the Cloud - Git Intro](gitintro.md)
 
 ### About Me
 Hello everyone, my name is Micah.  I grew up in central Florida, but I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
