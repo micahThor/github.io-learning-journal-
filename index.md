@@ -7,6 +7,7 @@
 3. [Revisions and the Cloud - Editing Content](editingcontent.md)
 4. [Revisions and the Cloud - Git Intro](gitintro.md)
 5. [Structure web pages with HTML](htmlexercise.md)
+6. [Design web pages with CSS](cssexercise.md)
 
 ### About Me
 Hello everyone, my name is Micah.  I grew up in central Florida, but I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
