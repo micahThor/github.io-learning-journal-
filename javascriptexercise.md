@@ -22,9 +22,9 @@ In this example, if the value of ```username``` was "Micah", then all the code w
 
 ### Dot Notation
 
-In Javascript, *objects* call their *methods* to produce a result.  Some programmeres call this style dot notation because the object calling its function is separated by a ```.``` such as:
+In Javascript, *objects* call their *methods* to produce a result.  Some programmers call this style dot notation because the object calling its function is separated by a ```.``` such as:
 ```
 document.write("hello world");
 ```
-In this example, ```document``` refers to the object.  In this case it is the web page *document*.  The ```document``` object is being called using its ```write``` method.  The ```write``` method executes its code with the *aruments* or *parameters* in its parenthesis ```()```.  If this piece of code were included in a script, it would output ```hello world``` somewhere on the web page.
+In this example, ```document``` refers to the object.  In this case it is the web page *document*.  The ```document``` object is being called using its ```write``` method.  The ```write``` method executes its code with the *arguments* or *parameters* in its parenthesis ```()```.  If this piece of code were included in a script, it would output ```hello world``` somewhere on the web page.
 
