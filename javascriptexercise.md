@@ -28,3 +28,4 @@ document.write("hello world");
 ```
 In this example, ```document``` refers to the object.  In this case it is the web page *document*.  The ```document``` object is being called using its ```write``` method.  The ```write``` method executes its code with the *arguments* or *parameters* in its parenthesis ```()```.  If this piece of code were included in a script, it would output ```hello world``` somewhere on the web page.
 
+[Back to Home Page](index.md)
