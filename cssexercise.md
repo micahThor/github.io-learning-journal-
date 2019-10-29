@@ -15,3 +15,5 @@ h1, h2, h3 {
 ```
 
 In this example all my h1, h2, and h3 headers will be the specified font and will be displayed in a dark blue color.  CSS and Html accept colors by name, hex code, or even RGB code.  In this example I used a hex code that was supplied from the offical Seattle Sounders marketing page to suit my needs.
+
+[Back to Home Page](index.md)
