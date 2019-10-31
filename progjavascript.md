@@ -6,7 +6,7 @@ Javascript is a language designed to solve a procedural problem, convert raw use
 
 ### Code Modularity
 
-Here is an example of how Javascript might appear in your webpage.  There are many ways to intersperse Javascript in your Html.  I believe the best approach to adding Javascript is to keep your code modular.  This practice includes keeping your Javascript in seperate files, and refering to them in the ```<head>``` tags of your Html as such:
+Here is an example of how Javascript might appear in your webpage.  There are many ways to intersperse Javascript in your Html.  I believe the best approach to adding Javascript is to keep your code modular.  This practice includes keeping your Javascript in separate files, and referring to them in the ```<head>``` tags of your Html as such:
 ```
 <head>
 .... // other 
