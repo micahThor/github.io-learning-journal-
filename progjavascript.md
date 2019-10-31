@@ -18,7 +18,32 @@ With the relative path to my script specified, I can now use the functions withi
 <input type="submit" value="Submit Scores" onclick="displayGameScore();">
 ```
 
-Since I have the script loaded in the ```<head>``` tag of this Html, I can refer to the specific function.  This keeps my Html uncluttered and easy to read.
+Since I have the script loaded in the ```<head>``` tag of this Html, I can refer to the specific function.  This keeps my Html uncluttered and easy to read.  The function "displayGameScore" exists in the file "gamescore.js" and includes this code.
+```
+function displayGameScore() {
+    // get LAFC and Sounder score and write user score to page
+    var sounderScore = document.getElementById("sounderscore").value;
+    sounderScoreText.innerHTML= sounderScore; 
+    var lafcScore = document.getElementById("lafcscore").value;
+    lafcScoreText.innerHTML= lafcScore;
+
+    // test scores to see if user entered correct scores
+    checkGameScore(sounderScore, lafcScore);
+}
+
+function checkGameScore(score1, score2) {
+    // checks user input against game score and prints results to page
+    if (score1 == 3 && score2 == 1) {
+        scoreGuess.innerHTML = "That's the correct score!  Sounders won!";
+    } else if (score1 != 3 && score2 == 1) {
+        scoreGuess.innerHTML = "That's the correct score for LAFC!  But wrong for Sounders...";
+    } else if (score1 == 3 && score2 != 1) {
+        scoreGuess.innerHTML = "That's the correct score for the Sounders!  But wrong for LAFC...";
+    } else {
+        scoreGuess.innerHTML = "Both of your scores are wrong";
+    }
+}
+```
 
 
 [Back to Home Page](index.md)
