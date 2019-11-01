@@ -6,7 +6,7 @@ Operators and loops are essential programming paradigms in controlling the logic
 
 Comparison operators perform evaluations on value(s) to determine an outcome.  Often you will want your program to behave based upon a value's relation to another value.  Here are some of the basic operators that you will utilize in your programs.
 
->    greater than
+/>    greater than
 <    less than
 >=   greater than or equal to
 <=   less than or equal to
