@@ -11,6 +11,7 @@
 7. [Dynamic web pages with JavaScript - Intro to JS](javascriptexercise.md)
 8. [Dynamic web pages with JavaScript - Computer Archictecture and Logic](comparcandlogic.md)
 9. [Programming with Javascript](progjavascript.md)
+10. [Operators and Loops](operatorsandloops.md) 
 
 ### About Me
 Hello everyone, my name is Micah.  I grew up in central Florida, but I have called many places home over the years (Mississippi, Texas, Arizona, Guam).  
